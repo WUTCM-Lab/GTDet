@@ -1,0 +1,32 @@
+{
+  "nproc": 10,
+  "img_dirs": [
+    "/home/server4/sudo_aimer/mmrotate/data/Dota/train/images/",
+    "/home/server4/sudo_aimer/mmrotate/data/Dota/val/images/"
+  ],
+  "ann_dirs": [
+    "/home/server4/sudo_aimer/mmrotate/data/Dota/train/labelTxt-v1.0/",
+    "/home/server4/sudo_aimer/mmrotate/data/Dota/val/labelTxt-v1.0/"
+  ],
+  "sizes": [
+    1024
+  ],
+  "gaps": [
+    500
+  ],
+  "rates": [
+    0.5,
+    1.0,
+    1.5
+  ],
+  "img_rate_thr": 0.6,
+  "iof_thr": 0.7,
+  "no_padding": false,
+  "padding_value": [
+    104,
+    116,
+    124
+  ],
+  "save_dir": "data/split_ms_dota/trainval/",
+  "save_ext": ".png"
+}

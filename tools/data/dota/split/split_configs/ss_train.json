@@ -1,0 +1,28 @@
+{
+  "nproc": 10,
+  "img_dirs": [
+    "/home/server4/datasets/Dota/train/labelTxt-v1.0/labelTxt/"
+  ],
+  "ann_dirs": [
+    "/home/server4/datasets/Dota/train/images/"
+  ],
+  "sizes": [
+    1024
+  ],
+  "gaps": [
+    200
+  ],
+  "rates": [
+    1.0
+  ],
+  "img_rate_thr": 0.6,
+  "iof_thr": 0.7,
+  "no_padding": false,
+  "padding_value": [
+    104,
+    116,
+    124
+  ],
+  "save_dir": "/home/server4/datasets/split_ss_dota/train/",
+  "save_ext": ".png"
+}

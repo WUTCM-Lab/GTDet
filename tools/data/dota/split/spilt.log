@@ -1,0 +1,55 @@
+nohup: ignoring input
+Loading original data!!!
+Starting loading DOTA dataset information.
+Finishing loading DOTA, get 48 iamges, using 0.043s.
+Start splitting images!!!
+2023-04-17 06:09:21,931 - (2.1% 1:48) - Filename: JL1KF01C_PMSL4_20230115104731_200126162_101_0051_001_L3C_PSH.png - width: 21492 - height: 20212 - Objects: 26    - Patches: 37
+2023-04-17 06:09:22,445 - (4.2% 2:48) - Filename: JL1KF01B_PMSL4_20220408104638_200080409_101_0014_001_L3C_PSH.png - width: 22212 - height: 20568 - Objects: 7     - Patches: 8
+2023-04-17 06:09:23,243 - (6.2% 3:48) - Filename: JL1KF01B_PMSL2_20220408104638_200080409_101_0017_001_L3C_PSH.png - width: 21944 - height: 20400 - Objects: 1     - Patches: 1
+2023-04-17 06:09:23,348 - (8.3% 4:48) - Filename: JL1KF01B_PMSL4_20220408104638_200080409_101_0015_001_L3C_PSH.png - width: 22212 - height: 20552 - Objects: 2     - Patches: 3
+2023-04-17 06:09:31,829 - (10.4% 5:48) - Filename: JL1KF01B_PMSR3_20220408104638_200080409_101_0015_001_L3C_PSH.png - width: 22144 - height: 20548 - Objects: 7     - Patches: 9
+2023-04-17 06:09:32,796 - (12.5% 6:48) - Filename: JL1GF03D11_PMS_20230114110802_200125815_104_0040_001_L3C_PSH.png - width: 29949 - height: 28325 - Objects: 21    - Patches: 24
+2023-04-17 06:09:33,867 - (14.6% 7:48) - Filename: JL1KF01B_PMSR1_20220408104638_200080409_101_0017_001_L3C_PSH.png - width: 21876 - height: 20392 - Objects: 33    - Patches: 53
+2023-04-17 06:09:39,871 - (16.7% 8:48) - Filename: JL1GF02B_PMS2_20230114101238_200125650_102_0005_001_L3C_PSH.png - width: 36768 - height: 34740 - Objects: 11    - Patches: 19
+2023-04-17 06:09:40,076 - (18.8% 9:48) - Filename: JL1GF02B_PMS2_20210215103956_200041191_103_0003_001_L3C_PSH.png - width: 34801 - height: 34487 - Objects: 4     - Patches: 7
+2023-04-17 06:09:40,080 - (20.8% 10:48) - Filename: JL1GF02B_PMS1_20210215103956_200041191_103_0001_001_L3C_PSH.png - width: 34322 - height: 34219 - Objects: 4     - Patches: 5
+2023-04-17 06:09:40,775 - (22.9% 11:48) - Filename: JL1GF02D_PMS1_20230212132035_200133495_108_0003_001_L3C_PSH.png - width: 36925 - height: 35675 - Objects: 1     - Patches: 1
+2023-04-17 06:09:42,862 - (25.0% 12:48) - Filename: JL1KF01B_PMSR4_20220408104638_200080409_101_0014_001_L3C_PSH.png - width: 22292 - height: 20573 - Objects: 3     - Patches: 3
+2023-04-17 06:09:45,817 - (27.1% 13:48) - Filename: JL1GF02D_PMS1_20230212132035_200133495_108_0005_001_L3C_PSH.png - width: 37461 - height: 36193 - Objects: 13    - Patches: 20
+2023-04-17 06:09:47,930 - (29.2% 14:48) - Filename: JL1GF03D10_PMS_20230212111422_200133661_102_0004_001_L3C_PSH.png - width: 26456 - height: 26728 - Objects: 1     - Patches: 1
+2023-04-17 06:09:50,120 - (31.2% 15:48) - Filename: JL1GF02B_PMS2_20210123103311_200038423_101_0064_001_L3C_PSH.png - width: 34654 - height: 34607 - Objects: 3     - Patches: 4
+2023-04-17 06:09:56,647 - (33.3% 16:48) - Filename: JL1KF01B_PMS06_20211203105339_200068352_101_0020_001_L3C.png - width: 15118 - height: 24168 - Objects: 35    - Patches: 49
+2023-04-17 06:09:58,476 - (35.4% 17:48) - Filename: JL1GF03D10_PMS_20230212111422_200133661_102_0008_001_L3C_PSH.png - width: 26483 - height: 26775 - Objects: 8     - Patches: 13
+2023-04-17 06:09:59,159 - (37.5% 18:48) - Filename: JL1KF01B_PMSL5_20220408104638_200080409_101_0014_001_L3C_PSH.png - width: 22376 - height: 20692 - Objects: 4     - Patches: 3
+2023-04-17 06:10:00,266 - (39.6% 19:48) - Filename: JL1KF01B_PMSL2_20220408104638_200080409_101_0016_001_L3C_PSH.png - width: 21948 - height: 20400 - Objects: 9     - Patches: 12
+2023-04-17 06:10:00,674 - (41.7% 20:48) - Filename: JL1GF02B_PMS2_20210215103956_200041191_103_0002_001_L3C_PSH.png - width: 34801 - height: 34485 - Objects: 3     - Patches: 6
+2023-04-17 06:10:08,359 - (43.8% 21:48) - Filename: JL1GF02B_PMS1_20210215103956_200041191_103_0004_001_L3C_PSH.png - width: 34327 - height: 34222 - Objects: 6     - Patches: 7
+2023-04-17 06:10:09,190 - (45.8% 22:48) - Filename: JL1GF02B_PMS2_20210215103956_200041191_103_0001_001_L3C_PSH.png - width: 34805 - height: 34482 - Objects: 15    - Patches: 20
+2023-04-17 06:10:09,464 - (47.9% 23:48) - Filename: JL1KF01B_PMSL3_20220408104638_200080409_101_0016_001_L3C_PSH.png - width: 22092 - height: 20528 - Objects: 1     - Patches: 4
+2023-04-17 06:10:10,343 - (50.0% 24:48) - Filename: JL1GF02B_PMS2_20220407102021_200080349_104_0023_001_L3C_PSH.png - width: 36102 - height: 34204 - Objects: 12    - Patches: 14
+2023-04-17 06:10:13,906 - (52.1% 25:48) - Filename: JL1KF01A_PMS03_20210404103536_200046027_102_0005_001_L3C_PSH.png - width: 35919 - height: 36305 - Objects: 6     - Patches: 8
+2023-04-17 06:10:14,576 - (54.2% 26:48) - Filename: JL1GF03D10_PMS_20230212111422_200133661_102_0006_001_L3C_PSH.png - width: 26470 - height: 26723 - Objects: 2     - Patches: 0
+2023-04-17 06:10:18,440 - (56.2% 27:48) - Filename: JL1KF01B_PMSL1_20220408104638_200080409_101_0017_001_L3C_PSH.png - width: 21848 - height: 20376 - Objects: 10    - Patches: 13
+2023-04-17 06:10:22,462 - (58.3% 28:48) - Filename: JL1KF01B_PMSL3_20220408104638_200080409_101_0015_001_L3C_PSH.png - width: 22100 - height: 20540 - Objects: 7     - Patches: 10
+2023-04-17 06:10:24,983 - (60.4% 29:48) - Filename: JL1KF01B_PMSR3_20220408104638_200080409_101_0016_001_L3C_PSH.png - width: 22140 - height: 20528 - Objects: 1     - Patches: 1
+2023-04-17 06:10:26,404 - (62.5% 30:48) - Filename: JL1KF01A_PMS01_20210404103536_200046027_102_0001_001_L3C_PSH.png - width: 35927 - height: 36272 - Objects: 7     - Patches: 10
+2023-04-17 06:10:27,894 - (64.6% 31:48) - Filename: JL1KF01A_PMS02_20210404103536_200046027_102_0002_001_L3C_PSH.png - width: 35905 - height: 36306 - Objects: 1     - Patches: 1
+2023-04-17 06:10:31,056 - (66.7% 32:48) - Filename: JL1GF02B_PMS2_20230114101238_200125650_102_0009_001_L3C_PSH.png - width: 36604 - height: 34744 - Objects: 31    - Patches: 34
+2023-04-17 06:10:33,047 - (68.8% 33:48) - Filename: JL1KF01B_PMSR5_20220408104638_200080409_101_0013_001_L3C_PSH.png - width: 22452 - height: 20704 - Objects: 1     - Patches: 1
+2023-04-17 06:10:34,301 - (70.8% 34:48) - Filename: JL1GF03D10_PMS_20230212111422_200133661_102_0005_001_L3C_PSH.png - width: 26478 - height: 26722 - Objects: 4     - Patches: 6
+2023-04-17 06:10:34,368 - (72.9% 35:48) - Filename: JL1KF01C_PMSR3_20230115104731_200126162_101_0052_001_L3C_PSH.png - width: 21520 - height: 20208 - Objects: 10    - Patches: 13
+2023-04-17 06:10:36,685 - (75.0% 36:48) - Filename: JL1KF01A_PMS01_20210404103536_200046027_102_0002_001_L3C_PSH.png - width: 35928 - height: 36276 - Objects: 4     - Patches: 4
+2023-04-17 06:10:40,036 - (77.1% 37:48) - Filename: JL1KF01A_PMS03_20210404103536_200046027_102_0002_001_L3C_PSH.png - width: 35907 - height: 36295 - Objects: 2     - Patches: 2
+2023-04-17 06:10:41,906 - (79.2% 38:48) - Filename: JL1KF01A_PMS03_20210812102758_200058174_102_0004_001_L3D_PSH.png - width: 57735 - height: 55343 - Objects: 27    - Patches: 38
+2023-04-17 06:10:45,391 - (81.2% 39:48) - Filename: JL1GF03D11_PMS_20230114110802_200125815_104_0041_001_L3C_PSH.png - width: 29941 - height: 28330 - Objects: 20    - Patches: 27
+2023-04-17 06:10:46,909 - (83.3% 40:48) - Filename: JL1KF01B_PMSR2_20220408104638_200080409_101_0016_001_L3C_PSH.png - width: 21928 - height: 20412 - Objects: 10    - Patches: 14
+2023-04-17 06:10:54,439 - (85.4% 41:48) - Filename: JL1GF02B_PMS2_20210216103151_200041275_103_0002_001_L3C_PSH.png - width: 35496 - height: 34726 - Objects: 3     - Patches: 3
+2023-04-17 06:10:56,689 - (87.5% 42:48) - Filename: JL1GF02B_PMS1_20210215103956_200041191_103_0003_001_L3C_PSH.png - width: 34330 - height: 34221 - Objects: 11    - Patches: 12
+2023-04-17 06:10:56,777 - (89.6% 43:48) - Filename: JL1GF03D10_PMS_20230212111422_200133661_102_0007_001_L3C_PSH.png - width: 26494 - height: 26733 - Objects: 6     - Patches: 9
+2023-04-17 06:11:04,940 - (91.7% 44:48) - Filename: JL1GF02B_PMS1_20230114101238_200125650_102_0006_001_L3C_PSH.png - width: 36440 - height: 34600 - Objects: 7     - Patches: 8
+2023-04-17 06:11:05,593 - (93.8% 45:48) - Filename: JL1KF01C_PMSR3_20230115104731_200126162_101_0050_001_L3C_PSH.png - width: 21548 - height: 20212 - Objects: 3     - Patches: 3
+2023-04-17 06:11:13,144 - (95.8% 46:48) - Filename: JL1GF03D11_PMS_20230114110802_200125815_104_0037_001_L3C_PSH.png - width: 30051 - height: 28339 - Objects: 7     - Patches: 9
+2023-04-17 06:11:36,077 - (97.9% 47:48) - Filename: JL1KF01B_PMS05_20211204104604_200068408_102_0012_001_L3D_PSH.png - width: 60490 - height: 61397 - Objects: 12    - Patches: 14
+2023-04-17 06:11:47,034 - (100.0% 48:48) - Filename: JL1KF01B_PMSR5_20220408104638_200080409_101_0014_001_L3C_PSH.png - width: 22436 - height: 20712 - Objects: 1     - Patches: 2
+Finish splitting images in 155 second!!!
+Total images number: 565
